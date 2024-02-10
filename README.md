@@ -5,7 +5,7 @@ Welcome to SPArc, a project designed to represent protein architecture in a sing
 - `index.html`: Main HTML file for the search page.
 - `resultPage.html`: HTML file for visualizing the protein backbone.
 - `server.js`: JavaScript file responsible for processing protein data.
-- 
+
 ## Screenshots
 
 ### Index Page
